@@ -1,0 +1,12 @@
+[package]
+name = "creds"
+version = "0.0.1"
+authors = ["Eric Reichert <eric@reichertconsulting.com>"]
+edition = "2018"
+description = "Get credentials at the CLI."
+homepage = "https://github.com/ereichert/creds"
+repository = "https://github.com/ereichert/creds"
+keywords = ["credentials", "username", "password", "cli", "authentication"]
+license = "Apache-2.0"
+
+[dependencies]
